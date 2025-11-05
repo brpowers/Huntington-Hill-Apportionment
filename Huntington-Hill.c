@@ -18,7 +18,7 @@ brpowers989@gmail.com
 #include <string.h>
 
 #define STATES 50
-#define TOTAL_SEATS 739
+#define TOTAL_SEATS 811
 
 int main(void) {
     char *names[STATES] = {
